@@ -28,5 +28,5 @@ A sleek and responsive **Weather Forecast** application built using **React.js**
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/weather-forecast.git
+git clone https://github.com/hitaishi18-coder/weather-forecast.git
 cd weather-forecast
